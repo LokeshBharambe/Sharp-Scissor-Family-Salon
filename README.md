@@ -4,7 +4,7 @@ This a web application that allows the user to compare different services offere
 
 ## Link to live site
 
-- [https://JORIM1981.github.io/Hair-Salon/]
+- [https://lokeshbharambe.github.io/Sharp-Scissor-Family-Salon/]
 
 #### Setup Instructions and Installation
 
